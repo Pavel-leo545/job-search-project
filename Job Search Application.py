@@ -18,7 +18,7 @@ querystring = {
 }
 
 headers = {
-	"x-rapidapi-key": "0ec2c7699amshf65b579b0cf50a3p1c63d5jsn2b9576062fd8",
+	"x-rapidapi-key": "Type key",
 	"x-rapidapi-host": "jsearch.p.rapidapi.com"
 }
 
